@@ -1,0 +1,31 @@
+_repo: The-history-of-Company-B-311th-Infantry-in-the-World-War_68333
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Gardenier, David
+    gutenberg_agent_id: '54731'
+    url: http://www.gutenberg.org/2009/agents/54731
+  - agent_name: White, Tracy S.
+    gutenberg_agent_id: '54733'
+    url: http://www.gutenberg.org/2009/agents/54733
+  - agent_name: Peter, Charles
+    gutenberg_agent_id: '54732'
+    url: http://www.gutenberg.org/2009/agents/54732
+  - agent_name: Colonna, B. Allison
+    gutenberg_agent_id: '54729'
+    url: http://www.gutenberg.org/2009/agents/54729
+  - agent_name: 'Stiles, Contributors: Bert W.'
+    gutenberg_agent_id: '54730'
+    url: http://www.gutenberg.org/2009/agents/54730
+description: ''
+gutenberg_issued: '2022-06-17'
+identifiers:
+  gutenberg: '68333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The history of Company B, 311th Infantry in the World War
+url: http://www.gutenberg.org/ebooks/68333
